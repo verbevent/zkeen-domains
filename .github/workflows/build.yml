@@ -34,12 +34,13 @@ jobs:
         run: |          
           mkdir -p input
           curl -L "https://antifilter.download/list/domains.lst" -o ./input/antifilter
+          curl -L "https://community.antifilter.download/list/domains.lst" -o ./input/antifilter-community
 
       - name: Build .dat file
         run: |
           mkdir -p publish
           cd code || exit 1
-          go run ./ --datapath=../input --outputdir=../publish --exportlists=antifilter --outputname=antifilter-domain.dat
+          go run ./ --datapath=../input --outputdir=../publish --exportlists=antifilter,antifilter-community --outputname=antifilter-domain.dat
 
       - name: Generate hash
         run: |
