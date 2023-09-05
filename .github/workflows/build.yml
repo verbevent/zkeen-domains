@@ -40,11 +40,11 @@ jobs:
         run: |
           mkdir -p publish
           cd code || exit 1
-          go run ./ --datapath=../input --outputdir=../publish --exportlists=antifilter,antifilter-community --outputname=antifilter-domain.dat
+          go run ./ --datapath=../input --outputdir=../publish --exportlists=antifilter,antifilter-community --outputname=geosite.dat
 
       - name: Generate hash
         run: |
-          sha256sum ./publish/antifilter-domain.dat > ./publish/antifilter-domain.dat.sha256sum      
+          sha256sum ./publish/geosite.dat > ./publish/geosite.dat.sha256sum      
 
       - name: Release and upload assets
         run: |
