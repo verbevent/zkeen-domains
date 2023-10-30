@@ -4,4 +4,4 @@
 
 ## Ссылки на скачивание последнего листа
 
-- **antifilter-domain.dat**：<https://github.com/schebotar/antifilter-domain/releases/latest/download/antifilter-domain.dat>
+- **geosite.dat**：<https://github.com/schebotar/antifilter-domain/releases/latest/download/geosite.dat>
