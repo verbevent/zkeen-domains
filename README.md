@@ -8,7 +8,7 @@
 
 ## Ссылка для загрузки крайней версии
 
-- **domains.dat**：<https://github.com/jameszeroX/domains-zkeen/releases/latest/download/domains.dat>
+- <https://github.com/jameszeroX/domains-zkeen/releases/latest/download/domains.dat>
 
 ## Пример использования
 
