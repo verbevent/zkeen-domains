@@ -2,7 +2,7 @@
 
 Форк <https://github.com/v2fly/domain-list-community/>
 
-Подробности и обсуждение проекта XKeen по ссылке <https://forum.keenetic.com/topic/16899-xray-на-entware-xkeen/>
+Подробнее о проекте XKeen по ссылке <https://forum.keenetic.com/topic/16899-xray-на-entware-xkeen/>
 
 Список доменов в сборке актуален только для Российской Федерации
 
