@@ -1,10 +1,7 @@
 .idea
 
-/domain-list-community
-/domain-list-community.exe
-
 # Generated dat file.
-dlc.dat
+domains.dat
 
 # Exported plaintext lists.
 /*.txt
