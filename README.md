@@ -5,6 +5,10 @@
 
 Подробности и обсуждение проекта XKeen по ссылке <https://forum.keenetic.com/topic/16899-xray-на-entware-xkeen/>
 
+## Ссылка для загрузки крайней версии
+
+- **domains.dat**：<https://github.com/jameszeroX/domains-zkeen/releases/latest/download/domains.dat>
+
 ## Пример использования
 
 ```json
