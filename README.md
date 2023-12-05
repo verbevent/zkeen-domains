@@ -34,7 +34,7 @@
 
 ## Самостоятельная сборка `domains.dat`
 
-- Установите `golang` и `git` (например `apt get golang git` для Ubuntu 20+)
+- Установите `golang` и `git` (например `apt install golang git` для Ubuntu 20+)
 - Клонируйте код проекта: `git clone https://github.com/jameszeroX/domains-zkeen.git`
 - Перейдите в корневую директорию проекта: `cd domains-zkeen`
 - Установите зависимости проекта командой: `go mod download`
