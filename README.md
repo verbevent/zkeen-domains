@@ -29,6 +29,7 @@
         "outboundTag": "proxy"
       },
       {
+        "port": "0-65535",
         "type": "field",
         "outboundTag": "direct"
       }
