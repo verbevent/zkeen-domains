@@ -23,6 +23,7 @@
       "rules": [
       {
         "domain": [
+          "regexp:^([\\w\\-\\.]+\\.)ua$",
           "ext:zkeen.dat:domains"
         ],
         "type": "field",
