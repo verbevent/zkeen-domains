@@ -23,7 +23,6 @@
       "rules": [
       {
         "domain": [
-          "regexp:^([\\w\\-\\.]+\\.)ua$",
           "ext:zkeen.dat:domains"
         ],
         "type": "field",
@@ -54,4 +53,4 @@
 Обновление сборки производится по возможности и при наличии у меня свободного времени. Состав сборки определяется мной, и я не гарантирую, что в ней содержатся все необходимые вам домены или, что они будут добавлены в будущих версиях. Если вам необходимы домены, не включенные в сборку, напишите мне об этом в личные сообщения на форуме Keenetic <https://forum.keenetic.com/messenger/compose/?to=20945> или через форму обратной связи <https://jameszero.net/contacts.htm>
 
 ## О сборке
-Является форком <https://github.com/v2fly/domain-list-community/> и <https://github.com/schebotar/antifilter-domain>
+Является форком <https://github.com/v2fly/domain-list-community/>
