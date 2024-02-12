@@ -1,3 +1,5 @@
+regexp:^([\w\-\.]+\.)ua$
+
 #test
 browserleaks.com
 browserleaks.org
