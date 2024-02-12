@@ -25,13 +25,13 @@
         "domain": [
           "ext:zkeen.dat:domains"
         ],
-        "type": "field",
-        "outboundTag": "proxy"
+        "outboundTag": "proxy",
+        "type": "field"
       },
       {
         "port": "0-65535",
-        "type": "field",
-        "outboundTag": "direct"
+        "outboundTag": "direct",
+        "type": "field"
       }
     ]
   }
