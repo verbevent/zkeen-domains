@@ -25,11 +25,12 @@
         "domain": [
           "ext:zkeen.dat:domains"
         ],
-        "outboundTag": "proxy",
+        "inboundTag": ["redirect", "tproxy"],
+        "outboundTag": "vless-reality",
         "type": "field"
       },
       {
-        "port": "0-65535",
+        "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "direct",
         "type": "field"
       }
