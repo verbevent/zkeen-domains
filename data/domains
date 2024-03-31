@@ -41,16 +41,13 @@ acestream.org
 acestreamsearch.com
 filmix.ac
 filmix.biz
-hdrezka.ac
-hdrezka.ag
-hdrezka.co
-hdrezka.tv
+hdrezka
 hdrzk.org
 kino.pub
 kinobase.org
 kinogo.at
 kinovod.net
-lostfilm.tv
+lostfilm
 mult.ru
 my.ultradox.host
 netflix.com
@@ -72,6 +69,7 @@ rutor.info
 rutor.is
 rutracker.org
 rutracker.ru
+static.rutracker.cc
 tracker.opentrackr.org
 
 #other
@@ -137,6 +135,8 @@ pornolab.net
 stulchik.net
 xhamster.com
 xhamsterlive.com
+xnxx.com
+xvideos.com
 
 #404
 regexp:^([\w\-\.]+\.)ua$
