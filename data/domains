@@ -39,6 +39,7 @@ lnkd.in
 #media
 acestream.org
 acestreamsearch.com
+cloud.cdnland.in
 filmix.ac
 filmix.biz
 hdrezka
@@ -73,6 +74,7 @@ static.rutracker.cc
 tracker.opentrackr.org
 
 #other
+4pda.to
 adguard.com
 adtidy.org
 aistudio.google.com
@@ -99,7 +101,9 @@ dell.com
 dellcdn.com
 delltechnologies.com
 deviantart.com
+dnsleaktest.com
 elby.ch
+fastpic.org
 flibusta.is
 fxsound.com
 gcore.com
@@ -121,12 +125,14 @@ prostovpn.org
 proton.me
 protonmail.com
 protonvpn.com
+reddit.com
 simplix.info
 sputnik-home.ru
 strava.com
 sydney.bing.com
 tailscale.com
 torproject.org
+vipdrive.net
 wide-youtube.l.google.com
 wixmp.com
 yt3.ggpht.com
@@ -136,11 +142,15 @@ ytimg.l.google.com
 fikfap.com
 pornhub.com
 pornolab.net
+redtube.com
 stulchik.net
 xhamster.com
 xhamsterlive.com
 xnxx.com
+xnxx-cdn.com
+xnxxapp02.com
 xvideos.com
+xvideos-cdn.com
 
 #404
 regexp:^([\w\-\.]+\.)ua$
