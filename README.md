@@ -53,3 +53,8 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
 - Выполните сборку командой: `go run ./`
 - Используйте созданный в корневой директории проекта файл `zkeen.dat`
 - Be happy!
+
+## Источники
+- https://community.antifilter.download
+- https://github.com/itdoginfo/allow-domains
+- Собственные наблюдения
