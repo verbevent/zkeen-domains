@@ -27,7 +27,8 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
       "rules": [
       {
         "domain": [
-          "ext:zkeen.dat:domains"
+          "ext:zkeen.dat:domains",
+          "ext:zkeen.dat:other"
         ],
         "inboundTag": ["redirect", "tproxy"],
         "outboundTag": "block",
