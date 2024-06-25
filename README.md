@@ -28,6 +28,7 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
       {
         "domain": [
           "ext:zkeen.dat:domains",
+          "ext:zkeen.dat:politic",
           "ext:zkeen.dat:other"
         ],
         "inboundTag": ["redirect", "tproxy"],
