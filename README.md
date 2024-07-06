@@ -27,14 +27,6 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
       "rules": [
       {
         "domain": [
-          "ext:zkeen.dat:bypass"
-        ],
-        "inboundTag": ["redirect", "tproxy"],
-        "outboundTag": "direct",
-        "type": "field"
-      },
-      {
-        "domain": [
           "ext:zkeen.dat:domains",
           "ext:zkeen.dat:politic",
           "ext:zkeen.dat:youtube",
