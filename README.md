@@ -41,7 +41,7 @@ Telegram <https://t.me/+SZWOjSlvYpdlNmMy>
           "ext:zkeen.dat:other"
         ],
         "inboundTag": ["redirect", "tproxy"],
-        "outboundTag": "block",
+        "outboundTag": "dummy",
         "type": "field"
       },
       {
